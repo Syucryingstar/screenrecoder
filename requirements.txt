@@ -1,4 +1,4 @@
-Pillow==6.1.0
+Pillow==9.0.0
 aircv==1.4.6
 pyautogui==0.9.47
 numpy==1.16.4
